@@ -4,6 +4,9 @@
 
 # Manjares Navideños
 ## Ensalada de Papa
+
+</div>
+  
 ### Ingredientes
 - ___10___ Papas grandes
 - ___1/2___ Cebolla picada finamente
