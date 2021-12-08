@@ -1,15 +1,15 @@
 # Manjares Navideños
 ## Ensalada de Papa
 ### Ingredientes
-- 10 Papas grandes
-- 1/2 Cebolla picada finamente
-- 1 Taza de mayonesa o al gusto
-- 1/2 Pimiento verde en trocitos
-- 1/2 Pimiento rojos morrón
-- 4 Huevos
-- 1 Manzana roja cortada en trocitos
-- 1 cucharada de sal al gusto
-- 1 pimienta al gusto
+- ___10___ Papas grandes
+- ___1/2___ Cebolla picada finamente
+- ___1___ Taza de mayonesa o al gusto
+- ___1/2___ Pimiento verde en trocitos
+- ___1/2___ Pimiento rojos morrón
+- ___4___ Huevos
+- ___1___ Manzana roja cortada en trocitos
+- ___1___ cucharada de sal al gusto
+- ___1___ pimienta al gusto
 
 ### Procedimientos:
 1. Primeramente lavamos y desinfectamos las papas con abundante agua, luego con la ayuda de un pelador procedemos a retirar las cascara y cortarlas en trocitos.
