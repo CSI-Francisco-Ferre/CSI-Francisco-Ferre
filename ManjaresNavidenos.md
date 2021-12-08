@@ -9,4 +9,8 @@
 - ***1*** Cucharadita Sazonador Líquido MAGGI® Reducido en Sodio
 - ***1/4*** Cucharadita Sal
 - ***1/2*** Cucharadita Cebolla en polvo
-#### Referencia: https://www.recetasnestle.com.mx/recetas/ensalada-papa
+
+### Procedimientos:
+1. 
+
+#### Referencia: hhttps://www.recetasnestle.com.mx/recetas/ensalada-papa
