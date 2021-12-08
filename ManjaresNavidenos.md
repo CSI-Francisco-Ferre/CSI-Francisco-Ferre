@@ -1,3 +1,5 @@
+<div align="center">
+  
 <img src="https://comidaboricua.info/wp-content/uploads/2020/11/ensalada-de-papas-puerto-rico.jpg" width="520" height="374" />
 
 # Manjares Navideños
