@@ -1,4 +1,4 @@
-<img src="https://www.bing.com/images/search view=detailV2&ccid=MugBw71q&id=EE54A30ED1DBAAE26D126C02B56D73E713321EA6&thid=OIP.MugBw71qZaha6vzr9jWhWQHaE8&mediaurl=https%3a%2f%2fcocinarrecetasdepostres.net%2fwp-content%2fuploads%2f2019%2f03%2fwordpressomatic%2fPuerto-Rican-Potato-Salad-13-of-15.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.32e801c3bd6a65a85aeafcebf635a159%3frik%3dph4yE%252bdzbbUCbA%26pid%3dImgRaw%26r%3d0&exph=720&expw=1080&q=ensaladade+papa+puertorriquena&simid=607989695104434113&FORM=IRPRST&ck=8136602EC4081E88A455D93296EB8311&selectedIndex=4&ajaxhist=0&ajaxserp=0" width="520" height="374" />
+<img src="https://comidaboricua.info/wp-content/uploads/2020/11/ensalada-de-papas-puerto-rico.jpg" width="520" height="374" />
 
 # Manjares Navideños
 ## Ensalada de Papa
@@ -11,7 +11,7 @@
 - ___4___ Huevos
 - ___1___ Manzana roja cortada en trocitos
 - ___1___ cucharada de sal al gusto
-- ___1___ pimienta al gusto
+- ___1___ Pimienta al gusto
 
 ### Procedimientos:
 1. Primeramente lavamos y desinfectamos las papas con abundante agua, luego con la ayuda de un pelador procedemos a retirar las cascara y cortarlas en trocitos.
