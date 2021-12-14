@@ -28,6 +28,7 @@
 7. Listo ya tenemos nuestra riquísima y tradicional ensalada de papa de Puerto Rico para que la tengas lista en tu mesa en tu reuniones especiales.
 8. BUEN PROVECHO!!! 
 
-### Video: https://www.youtube.com/watch?v=rxjU9MfiBiU
+### Video: 
+https://www.youtube.com/watch?v=rxjU9MfiBiU
 
 #### Referencia: https://comidaboricua.info/ensaladas/papa/
